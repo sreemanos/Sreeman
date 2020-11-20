@@ -1,0 +1,1 @@
+export const hostname = 'https://monitor-link.herokuapp.com/';

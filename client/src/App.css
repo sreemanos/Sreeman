@@ -1,0 +1,18 @@
+a {
+  color: inherit; /* blue colors for links too */
+  text-decoration: inherit; /* no underline */
+}
+.navbar-dark {
+  background-color: #1b2036;
+}
+
+.jumbotron {
+  padding:70px 30px 70px 30px;
+  margin:0px auto;
+  background: #c0b9b9ef;
+  color:rgb(12, 12, 11);
+}
+
+body {
+  background:  #c0b9b9ef;
+}
